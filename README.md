@@ -5,7 +5,6 @@ My Bachelor's Thesis project.
 > 
 > In this work, a new concept is introduced, namely the distance between the style of two graphical interfaces, based on the design features extracted with the style extractor. This distance measures the dissimilarity between the style of two graphical interfaces, and for its calculation a number of concepts are used in several areas such as image processing, artificial intelligence, statistics and mathematics.
 
-The  [thesis presentation]()  is available, in romanian. For more details, you can consult the  [full-length paper](). It is written in romanian, except for a two-page summary written in english.
-  
-![screenshot]()
+The  [thesis presentation](https://github.com/marianlupascu/Undergraduate-Thesis/blob/master/Presentation.pdf)  is available, in romanian. For more details, you can consult the  [full-length paper](https://github.com/marianlupascu/Undergraduate-Thesis/blob/master/UndergradThesis.pdf). It is written in romanian, except for a two-page summary written in english.
+![screenshot](screenshot.PNG)
 Code is unavailable to the public as the thesis was developed while working at Adobe.
